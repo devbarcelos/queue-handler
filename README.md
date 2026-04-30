@@ -9,11 +9,18 @@ Professional queue-handler library.
 
 ## Installation
 ```bash
-# Install
+npm install queue-handler
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('queue-handler');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
